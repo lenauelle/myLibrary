@@ -1,0 +1,2 @@
+7-115-13984-9,ComputerScience,Data Structures and Algorithm Analysis in C,PTpress,2005,M. A. Weiss,49.00,2
+7-5083-2496-X,ComputerScience,Logic,ChinaDianzi,2004,M. Mano,55.00,3

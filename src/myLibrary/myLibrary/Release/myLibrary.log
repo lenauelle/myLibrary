@@ -1,0 +1,33 @@
+﻿生成启动时间为 2013/7/10 1:44:34。
+     1>项目“E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\myLibrary\myLibrary.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\myLibrary.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\myLibrary.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LAB.cpp
+         LAB.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\Release\myLibrary.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\myLibrary.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\Release\myLibrary.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\Release\myLibrary.lib" /MACHINE:X86 Release\myLibrary.res
+         Release\Admin.obj
+         Release\IDCard.obj
+         Release\InStore.obj
+         Release\LAB.obj
+         Release\Login.obj
+         Release\myLibrary.obj
+         Release\Query.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         myLibrary.vcxproj -> E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\Release\myLibrary.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\Release\myLibrary.exe;#1" /manifest Release\myLibrary.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\myLibrary.unsuccessfulbuild”。
+         正在对“Release\myLibrary.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\行宮。\翰林院。\DBMS\Project\src\myLibrary\myLibrary\myLibrary.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
